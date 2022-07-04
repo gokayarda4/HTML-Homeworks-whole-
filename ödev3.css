@@ -1,0 +1,28 @@
+.feature1 {
+    color: rgb(160, 61, 61);
+    text-decoration: underline;
+    text-align: center;
+    float: center;
+}   
+
+.feature2 {
+    margin-left: 500px;
+}
+
+h3 {
+width: fit-content;
+background-color: #7a2b06;
+display: inline-block;
+color: white;
+
+}
+
+
+body { 
+    list-style-position: inside;
+    background-color:rgb(215, 166, 176) ;
+}
+
+
+
+
